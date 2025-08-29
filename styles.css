@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#output img {
+        margin: 10px;
+        max-width: 200px;
+      }
+      #loading {
+        display: none;
+        font-weight: bold;
+        color: blue;
+      }
+      #error {
+        color: red;
+        font-weight: bold;
+      }
